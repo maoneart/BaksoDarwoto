@@ -40,7 +40,7 @@ Langkah ini wajib dilakukan agar database `.accdb` terbaca:
 
 1. Buka **Start Menu** → ketik: `ODBC Data Source (64-bit)`.  
 2. Klik tab **System DSN** → klik tombol **Add...**.  
-3. Pilih **Microsoft Access Driver (*.mdb, *.accdb)** → klik **Finish**.  
+3. Pilih **Microsoft Access Driver** (*.mdb, *.accdb) → klik **Finish**.  
 4. Isi data sebagai berikut:  
 - **Data Source Name**: `db_darwoto`  
 - **Description**: Database Aplikasi Warung  
